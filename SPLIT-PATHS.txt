@@ -1,3 +1,0 @@
-b_Projects/galaxy
-b_Projects/galaxy-earth
-b_Projects/galaxy-x1
